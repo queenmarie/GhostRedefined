@@ -1,16 +1,29 @@
-Ghost redefined is an auto enumeration script, used for mild pentesting/hacking.
-it is for legal purposes, you are responsible for your actions while using this tool... 
-credit goes to
-stefan
-IceShaman
-mark pilgrim(dive into python)
-pentestmonkey
-john riley
+# Ghost Redefined 
 
-and of course me! kek
+Ghost Redefined is an auto enumeration script, used for mild pentesting/hacking.
 
-to use, open terminal and navigate to directory
-simply type "./ghost" without the quotation marks
-and run.
+The tool is intended legal purposes(white hat), you are responsible for your actions while using this tool. 
+
+### Credits
+-**stefan**
+-**IceShaman**
+-**Mark Pilgrim**(dive into python)
+-**pentestmonkey**
+-**John Riley**
+and of course [me!](https://github.com/queenmarie/GhostRedefined) kek
+
+### Usage
+
+`
+open terminal and navigate to **installed directory**
+
+type "**./ghost**" without the quotation marks.
+
+Press Enter to run the script.
+
 select your tool
-enjoy.
+
+Follow onscreen instruction
+
+
+
