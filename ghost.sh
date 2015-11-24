@@ -10,18 +10,13 @@ BLUE=$(tput setaf 6 && tput bold)
                                         
 cat << EOF
  
-             _____ _     _____      _   
-            |  __ \ |   |  _  |    | |  
-            | |  \/ |__ | |/' | ___| |_ 
-            | | __| '_ \| |/| |/ __| __|
-            | |_\ \ | | \ |_/ /\__ \ |_ 
-            \____/_ | |_|\___/ |___/\__|
-                            
+		▒█▀▀█ ▒█░▒█ ▒█▀▀▀█ ▒█▀▀▀█ ▀▀█▀▀ 
+		▒█░▄▄ ▒█▀▀█ ▒█░░▒█ ░▀▀▀▄▄ ░▒█░░ 
+		▒█▄▄█ ▒█░▒█ ▒█▄▄▄█ ▒█▄▄▄█ ░▒█░░ 
 
 EOF
 
-echo ""
-echo "     Available options";
+echo "       Choose one of the following options";
 echo ""
 echo "       1.  Ping a target";
 echo "       2.  Launch a whois search";
@@ -34,7 +29,8 @@ echo "       8.  Identify different versions of web programs";
 echo "       9.  Launch a scan with NMAP";
 echo "       10. Joomla & Wordpress Detector";
 echo "       11. Ultimate Footprinting";
-echo "       12. Exit script";
+echo "       12. Wifite";
+echo "       13. Exit script";
 echo ""
 echo ""
 read -p " Please type your choice number : " menuoption
@@ -232,9 +228,16 @@ cd /opt
 ./ghost.sh
 else
 
-
 if [ $menuoption = "12" ]; then
+echo "something"
+cd /tools
+python wifite.py
+echo ""
+else 
+
+if [ $menuoption = "13" ]; then
 exit
+
 fi
 fi
 fi
@@ -248,5 +251,4 @@ fi
 fi
 fi
 fi
-fi
-fi
+
