@@ -2,7 +2,7 @@
 
 Ghost Redefined is an auto enumeration script, used for mild pentesting/hacking.
 
-The tool is intended legal purposes(white hat), you are responsible for your actions while using this tool. 
+The tool is intended for legal and educational purposes **only**(white hat), you are responsible for your actions while using this tool. 
 
 ### Credits
 - **stefan**
