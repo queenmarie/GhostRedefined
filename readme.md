@@ -14,15 +14,13 @@ and of course [me!](https://github.com/queenmarie/GhostRedefined) kek
 
 ### Usage
 
-```open terminal and navigate to installed directory
-
+```
+open terminal and navigate to installed directory
 type "./ghost" without the quotation marks.
-
 Press Enter to run the script.
-
 select your tool
-
-Follow onscreen instruction```
+Follow onscreen instruction
+```
 
 
 
