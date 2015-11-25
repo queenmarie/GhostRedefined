@@ -16,7 +16,7 @@ The tool is intended for legal and educational purposes **only**(white hat), you
 
 ```
 open terminal and navigate to installed directory
-type "./ghost" without the quotation marks.
+type "./ghost.sh" without the quotation marks.
 Press Enter to run the script.
 select your tool
 Follow onscreen instruction
