@@ -10,6 +10,7 @@ The tool is intended for legal and educational purposes **only**(white hat), you
 - **Mark Pilgrim**(dive into python)
 - **pentestmonkey**
 - **John Riley**
+- [**Ritwick**](https://github.com/archetype2142)
 - and of course [me!](https://github.com/queenmarie/GhostRedefined) kek
 
 ### Usage
